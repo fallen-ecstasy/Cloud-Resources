@@ -1,6 +1,6 @@
 # Welcome to GDSC-PSIT Resources Hub
 
-![Institution Logo](insert_logo_url_here)
+![Institution Logo](https://github.com/fallen-ecstasy/Cloud-Resources/blob/main/GDSC%20LOGO.png)
 
 ## Introduction
 
