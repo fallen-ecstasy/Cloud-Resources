@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Welcome to our comprehensive educational resources hub, dedicated to empowering our students with the knowledge and tools they need to excel in their academic journey. Here, you will find a carefully curated collection of resources designed to enrich your learning experience and foster academic excellence.
+Welcome to our comprehensive educational resources hub, dedicated to empowering our students with the knowledge and tools they need to excel in their learning and development journey. Here, you will find a carefully curated collection of resources designed to enrich your learning experience and foster skill excellence.
 
 ## Table of Contents
 
@@ -20,23 +20,32 @@ Welcome to our comprehensive educational resources hub, dedicated to empowering 
 10. [Contact Us](#contact-us)
 
 ## Tools and Technologies
-
----COMING SOON---
+- [VS Code]()
+- [Docker]()
+- [Git]()
 
 ## Session Slides
 
----COMING SOON---
+- [Zero Session](https://github.com/fallen-ecstasy/Cloud-Resources/blob/main/slides/%230%20Google%20Cloud%20Study%20Jam.pdf)
+- [#1 Session](https://github.com/fallen-ecstasy/Cloud-Resources/blob/main/slides/%231%20Google%20Cloud%20Study%20Jam%20-%20Introduction%20to%20Cloud.pdf)
+- [#2 Session](https://github.com/fallen-ecstasy/Cloud-Resources/blob/main/slides/%232%20Google%20Cloud%20Study%20Jam%20-%20Introduction%20to%20Cloud.pdf)
 
-## Tutorials
+## Roadmaps
 
----COMING SOON---
+- [DevOps Roadmap](https://roadmap.sh/devops)
+- [Backend Roadmap](https://roadmap.sh/backend)
+- [Docker Roadmap](https://roadmap.sh/docker)
+- [Kubernetes Roadmap](https://roadmap.sh/kubernetes)
 
 ## Study Guides
 
 ---COMING SOON---
-CheatSheets
 
----COMING SOON---
+## CheatSheets
+
+- [Docker CLI Cheatsheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
+- [Git CLI Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Google Cloud Cheatsheet](https://googlecloudcheatsheet.withgoogle.com/)
 
 ## Online Courses
 
@@ -44,7 +53,8 @@ CheatSheets
 
 ## Project Idea Resources
 
----COMING SOON---
+- [SIH Problem Statement Ideas](https://sih.gov.in/sih2023PS)
+- [52+ CS Project Ideas](https://takeoffprojects.com/page/blog/major-project-for-cse)
 
 ## Career Development
 
@@ -52,7 +62,8 @@ CheatSheets
 
 ## Community Engagement
 
----COMING SOON---
+- [Discord]() : COMING SOON
+- [Telegram Announcement Channel](https://t.me/gdscpsit)
 
 ## Contact Us
 
