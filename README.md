@@ -71,4 +71,4 @@ Have questions or need assistance? Feel free to reach out to us at [Contact Emai
 
 We are committed to supporting your educational journey and ensuring your success. Happy learning!
 
-*Disclaimer: These resources are provided for educational purposes and are exclusive to [Your Organization]. Any unauthorized use or distribution is strictly prohibited.*
+*Disclaimer: These resources are provided for educational purposes and are exclusive to GDSC-PSIT Members. Any unauthorized use or distribution is strictly prohibited.*
